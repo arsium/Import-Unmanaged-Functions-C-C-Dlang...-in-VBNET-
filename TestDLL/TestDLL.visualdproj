@@ -1,0 +1,50 @@
+<DProject>
+ <ProjectGuid>da7a1fa7-40bf-450f-8c4d-a4865184ef9a</ProjectGuid>
+ <Config platform="Win32" name="Debug">
+  <isX86_64>0</isX86_64>
+  <compiler>0</compiler>
+  <runCv2pdb>1</runCv2pdb>
+  <symdebug>1</symdebug>
+  <release>0</release>
+  <mscoff>1</mscoff>
+  <lib>2</lib>
+  <subsystem>1</subsystem>
+  <exefile>$(OutDir)\$(ProjectName).dll</exefile>
+ </Config>
+ <Config platform="Win32" name="Release">
+  <isX86_64>0</isX86_64>
+  <compiler>0</compiler>
+  <runCv2pdb>0</runCv2pdb>
+  <release>1</release>
+  <optimize>1</optimize>
+  <useInline>1</useInline>
+  <mscoff>1</mscoff>
+  <lib>2</lib>
+  <subsystem>1</subsystem>
+  <exefile>$(OutDir)\$(ProjectName).dll</exefile>
+ </Config>
+ <Config platform="x64" name="Debug">
+  <isX86_64>1</isX86_64>
+  <compiler>0</compiler>
+  <runCv2pdb>1</runCv2pdb>
+  <symdebug>1</symdebug>
+  <release>0</release>
+  <lib>2</lib>
+  <subsystem>1</subsystem>
+  <exefile>$(OutDir)\$(ProjectName).dll</exefile>
+ </Config>
+ <Config platform="x64" name="Release">
+  <isX86_64>1</isX86_64>
+  <compiler>0</compiler>
+  <runCv2pdb>0</runCv2pdb>
+  <release>1</release>
+  <optimize>1</optimize>
+  <useInline>1</useInline>
+  <lib>2</lib>
+  <subsystem>1</subsystem>
+  <exefile>$(OutDir)\$(ProjectName).dll</exefile>
+ </Config>
+ <Folder name="TestDLL">
+  <File path="TestDLL.d" />
+ </Folder>
+</DProject>

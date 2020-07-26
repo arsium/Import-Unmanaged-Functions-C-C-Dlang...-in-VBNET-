@@ -1,0 +1,12 @@
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\bin\Debug\Import DLANG DLL.exe.config
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\bin\Debug\Import DLANG DLL.exe
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\bin\Debug\Import DLANG DLL.pdb
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\bin\Debug\Import DLANG DLL.xml
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import DLANG DLL.vbprojAssemblyReference.cache
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import_DLANG_DLL.Form1.resources
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import_DLANG_DLL.Resources.resources
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import DLANG DLL.vbproj.GenerateResource.cache
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import DLANG DLL.vbproj.CoreCompileInputs.cache
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import DLANG DLL.exe
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import DLANG DLL.xml
+E:\PROJECT MIXED (C# VB)\Import DLANG DLL\Import DLANG DLL\obj\Debug\Import DLANG DLL.pdb
